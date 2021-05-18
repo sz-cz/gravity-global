@@ -1,0 +1,13 @@
+{
+    "name": "dripfeed/front-end-recruitment-task",
+    "type": "project",
+    "require": {
+        "twig/twig": "^2.11"
+    },
+    "authors": [
+        {
+            "name": "Dripfeed LTD",
+            "email": "hello@iamdripfeed.com"
+        }
+    ]
+}
